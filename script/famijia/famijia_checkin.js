@@ -20,7 +20,7 @@ function GetSignCode(cookie, deviceId){
         "Host": "fmapp.chinafamilymart.com.cn",
         "User-Agent": "Fa",
         "deviceId": deviceId,
-        "fmVersion": "1.2.3",
+        "fmVersion": "2.2.3",
         "loginChannel": "app",
         "token": cookie
       },
@@ -68,7 +68,7 @@ function CheckIn(cookie, code, deviceId){
         "Host": "fmapp.chinafamilymart.com.cn",
         "User-Agent": "Fa",
         "deviceId": deviceId,
-        "fmVersion": "1.2.3",
+        "fmVersion": "2.2.3",
         "loginChannel": "app",
         "token": cookie
       },
@@ -116,7 +116,7 @@ function CheckInNewVerrsion(cookie, code, deviceId){
         "Host": "fmapp.chinafamilymart.com.cn",
         "User-Agent": "Fa",
         "deviceId": deviceId,
-        "fmVersion": "1.2.3",
+        "fmVersion": "2.2.3",
         "loginChannel": "app",
         "token": cookie
       },
@@ -165,7 +165,7 @@ function GetMili(cookie, deviceId){
         "Host": "fmapp.chinafamilymart.com.cn",
         "User-Agent": "Fa",
         "deviceId": deviceId,
-        "fmVersion": "1.2.3",
+        "fmVersion": "2.2.3",
         "loginChannel": "app",
         "token": cookie
       },
